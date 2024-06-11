@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyz
+*.pyzw
+*.egg-info/
+dist/
+build/
+*.egg
+*.spec
+
+# Pygame
+resources/
+
+# IDEs and editors
+/.vscode
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
